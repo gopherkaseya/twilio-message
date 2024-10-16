@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say language="fr-FR" voice="alice">
+    Bonjour ! Ceci est un message automatique. Passez une excellente journée !
+  </Say>
+</Response>
